@@ -1,0 +1,10 @@
+name: test_data
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip=23.1.2
+  - ultralytics=8.0.124
+  - pip:
+    - wandb==0.15.4
+    - torch==2.0.1

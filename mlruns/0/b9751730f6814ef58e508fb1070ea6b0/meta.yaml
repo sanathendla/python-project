@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sanat/pt4%20abhi/drowsiness_detection/mlruns/0/b9751730f6814ef58e508fb1070ea6b0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9751730f6814ef58e508fb1070ea6b0
+run_name: placid-snail-745
+run_uuid: b9751730f6814ef58e508fb1070ea6b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710907415503
+status: 1
+tags: []
+user_id: sanat
